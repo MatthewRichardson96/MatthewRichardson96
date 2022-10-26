@@ -15,6 +15,6 @@
 - PHP (Laravel)
 - Magento 2
 
-👀 My main hobbies are ⚽️ and walking my 🐶🐶
+My main hobbies are ⚽️ and walking my 🐶🐶
 <br><br>
 ![office](https://user-images.githubusercontent.com/18501958/198129275-b024e680-ad26-4875-8dd1-89d26722170c.png)
