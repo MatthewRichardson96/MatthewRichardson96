@@ -6,13 +6,10 @@
 👨‍💻I have experience in:
 
 - C#
-- Javascript (ReactJS, ExpressJS)
+- Javascript
 - SQL
 - HTML
 - CSS
-- VB.Net
-- VBScript
-- PHP (Laravel)
-- Magento 2
+
 
 
