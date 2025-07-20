@@ -41,12 +41,12 @@ I'm a passionate software developer from the UK, currently focused on building f
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matthewrichardson96&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewrichardson96&theme=radical" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewrichardson96&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
